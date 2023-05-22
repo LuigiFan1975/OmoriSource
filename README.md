@@ -37,3 +37,4 @@ See `GTP_OmoriFixes.js` for file load and `GTP_CoreUpdates.js` for decrypt funct
 ---
 
 ## Feel free to contribute to the project if you made changes
+
